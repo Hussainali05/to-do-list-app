@@ -1,0 +1,20 @@
+{
+  "name": "app-to-do-list-01",
+  "version": "1.0.1",
+  "description": "A simple command line based to do app",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "mwr-tc-64-to-do-list": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
